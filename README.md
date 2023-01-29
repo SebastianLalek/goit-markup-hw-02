@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-https://sebastianlalek.github.io/goit-markup-hw-02/potrfolio.html
+https://sebastianlalek.github.io/goit-markup-hw-02/index.html
