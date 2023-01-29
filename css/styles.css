@@ -86,7 +86,7 @@ body {
 
 .footer-link:hover,
 .footer-link:focus {
-  text-decoration: underline;
+  color: var(--active-color);
 }
 
 /* footer end */
